@@ -661,8 +661,7 @@ Tách thuộc tính bị phụ thuộc gián tiếp sang bảng mới:
 
 ### 5. Sơ đồ ERD Hệ thống Quản lý Bán hàng (Mermaid & ASCII)
 
-#### A. Sơ đồ Mermaid ERD Hoàn Chỉnh (Tương thích tốt trên GitHub / Markdown Viewers)
-
+#### A. Sơ đồ Mermaid ERD Hoàn Chỉnh
 ```mermaid
 erDiagram
     DANH_MUC ||--o{ SAN_PHAM : "chứa (1 DanhMuc có N SanPham)"
